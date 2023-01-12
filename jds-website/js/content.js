@@ -113,7 +113,7 @@ const issues = {
 					"email": "dsuth@cs.ubc.ca"
 				},
 				{
-					"name": "Nathan Srebro",
+					"name": "Nati Srebro",
 					"affiliation": "Toyota Technological Institute at Chicago",
 					"email": "nati@ttic.edu"
 				}
